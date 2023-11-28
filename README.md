@@ -1,4 +1,5 @@
 # 와일드팡 (멀티 퍼즐 게임)
+![image](https://github.com/jaebins/WildPang/assets/70888275/1441f3ac-e130-467a-b5b5-3aa27fbfe6fc)
 ### 플레이 영상
 <a href="https://www.youtube.com/watch?v=NFfx2V5oDyQ&t=77s">![js](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 ### 플랫폼
